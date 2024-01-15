@@ -7,14 +7,14 @@
 Hi, I'm Tariq Jamal, a Full Stack Developer from India 🇮🇳, currently i'm working as a Python Full Stack Developer in <a href="https://mallow-tech.com/">Mallow Technologies</a>.I'm passionate about learning new technologies
 
 <br>
-<img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="210">
+<img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" height="190">
 
 - 🌱 I’m currently focusing on **Python Web Developments Frameworks** and UI/UX Design.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
-
+<br>
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
     <a href="https://www.python.org/"
