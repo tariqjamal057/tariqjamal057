@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a style="color: green" href="https://github.com/tariqjamal057/">Tariq Jamal A </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a style="color: green !important" href="https://github.com/tariqjamal057/">Tariq Jamal A </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 [![linkedin badge](https://img.shields.io/badge/tariqjamal-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/tariq-jamal-it/)
 [![Gmail Badge](https://img.shields.io/badge/tariqjamal4267324@gmail.com-1d8c19?style=flat&logo=Gmail&logoColor=red)](mailto:tariqjamal4267324@gmail.com)
