@@ -11,7 +11,6 @@ Hi, I'm Tariq Jamal, a Full Stack Developer from India 🇮🇳, currently i'm w
 
 - 🌱 I’m currently focusing on **Python Web Developments Frameworks** and UI/UX Design.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
 <br>
