@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/tariqjamal4267324@gmail.com-1d8c19?style=flat&logo=Gmail&logoColor=red)](mailto:tariqjamal4267324@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/tariqjamal_it-555?style=flat&logo=instagram)](https://www.instagram.com/tariqjamal_it/)
 
-Hi, I'm Tariq Jamal, a Full Stack Developer from India 🇮🇳, currently i'm working as a Python Full Stack Developer in <a href="https://mallow-tech.com/">Mallow Technologies</a>.I'm passionate about learning new technologies
+Proficient in building and maintaining robust web applications using Django,Flask and FastAPI, with a strong background in developing RESTful APIs and working with PostgreSQL and MySQL databases. Adapt at working in Agile environments, with a focus on delivering high-quality, scalable solutions. Passionate about continuous learning and leveraging new technologies to enhance development processes.
 
 <br>
 <img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" height="190">
