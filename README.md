@@ -192,9 +192,9 @@ Proficient in building and maintaining robust web applications using Django,Flas
 <br>
 <br>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=tariqjamal057&theme=dark&hide_border=false" width = 500>
+[![Stats](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=dark)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=dark" width = 500>
+[![Current Streak](https://github-readme-streak-stats.herokuapp.com?user=tariqjamal057&theme=dark)](https://github-readme-streak-stats.herokuapp.com?user=tariqjamal057&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqjamal057&theme=dark)](https://github.com/tariqjamal057/github-readme-stats)
 
