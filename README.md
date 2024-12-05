@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/tariqjamal4267324@gmail.com-1d8c19?style=flat&logo=Gmail&logoColor=red)](mailto:tariqjamal4267324@gmail.com)
 [![Instagram badge](https://img.shields.io/badge/tariqjamal_it-555?style=flat&logo=instagram)](https://www.instagram.com/tariqjamal_it/)
 
-Proficient in building and maintaining robust web applications using Django,Flask and FastAPI, with a strong background in developing RESTful APIs and working with PostgreSQL and MySQL databases. Adapt at working in Agile environments, with a focus on delivering high-quality, scalable solutions. Passionate about continuous learning and leveraging new technologies to enhance development processes.
+I'm proficient in building and maintaining robust web applications using Flask and FastAPI, with a strong background in developing RESTful APIs and working with PostgreSQL and MySQL databases. Experienced in creating clean, responsive UIs using JavaScript, React.js, and Next.js, as well as integrating third-party APIs. Skilled in working in Agile environments, focusing on delivering high-quality, scalable solutions. Passionate about continuous learning and leveraging new technologies to enhance development processes.
 
 <br>
 <img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" height="190">
@@ -14,6 +14,7 @@ Proficient in building and maintaining robust web applications using Django,Flas
 
 <br>
 <br>
+
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
     <a href="https://www.python.org/"
@@ -190,10 +191,14 @@ Proficient in building and maintaining robust web applications using Django,Flas
     </a> 
 </p>
 <br>
-<br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariqjamal057&theme=dark)](https://github.com/tariqjamal057/github-readme-stats)
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="008000")](https://github.com/tariqjamal057)
+###  GitHub Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=algolia)](https://github.com/tariqjamal057/github-readme-stats#gh-dark-mode-only)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tariqjamal057&theme=onedark&row=1&column=6)](https://github.com/tariqjamal057/github-profile-trophy)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="050f2c")](https://github.com/tariqjamal057)
