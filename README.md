@@ -15,185 +15,46 @@ I'm proficient in building and maintaining robust web applications using Flask a
 <br>
 <br>
 
-<h3 align="left">Languages and Frameworks:</h3>
-<p align="left">
-    <a href="https://www.python.org/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         alt="python"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://www.java.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-         alt="java"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://www.dart.dev/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"
-         alt="dart"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://pandas.pydata.org/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
-         alt="dart"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://nodejs.org"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
-         alt="nodejs"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
-         alt="django"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"
-         alt="flask"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://javascript.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-         alt="javascript"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://react.dev/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
-         alt="react js"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://getbootstrap.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"
-         alt="bootstrap"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://html.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"
-         alt="html5"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://css.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"
-         alt="css3"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://tailwindcss.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-         alt="tailwindcss"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://mysql.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-         alt="mysql"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://mongodb.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-         alt="mongodb"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://git-scm.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
-         alt="git"
-         width="40"
-         height="40" />
-    </a>
-</p>
+## Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-    <a href="https://code.visualstudio.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"
-         alt="vscode"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg"
-         alt="pycharm"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://github.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-         alt="github"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://sourcetreeapp.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg"
-         alt="sourcetree"
-         width="40"
-         height="40" />
-    </a>
-    <a href="https://docker.com/"
-    target="_blank"
-    rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
-         alt="docker"
-         width="40"
-         height="40" />
-    </a> 
-</p>
-<br>
+## Frameworks and Libraries
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-0C0C0C?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF5733?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
+[![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/)
+[![CryptoJS](https://img.shields.io/badge/CryptoJS-e3f30c?style=for-the-badge&logo=crypto.js&logoColor=white)](https://cryptojs.gitbook.io/)
+[![Express.js](https://img.shields.io/badge/Express.js-3c873a?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css.com/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://www.dart.dev/)
 
+## Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-D92B21?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
----
+## Version Control
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+## Tools
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-646464?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 ###  GitHub Stats
 
