@@ -1,19 +1,20 @@
-<h1>Hey there, I'm <a style="color: green !important" href="https://github.com/tariqjamal057/">Tariq Jamal A </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# Hey there, I'm [Tariq Jamal A](https://github.com/tariqjamal057/) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-[![linkedin badge](https://img.shields.io/badge/tariqjamal-0077b5?style=flat&logo=linkedin)](https://www.linkedin.com/in/tariq-jamal-it/)
-[![Gmail Badge](https://img.shields.io/badge/tariqjamal4267324@gmail.com-1d8c19?style=flat&logo=Gmail&logoColor=red)](mailto:tariqjamal4267324@gmail.com)
-[![Instagram badge](https://img.shields.io/badge/tariqjamal_it-555?style=flat&logo=instagram)](https://www.instagram.com/tariqjamal_it/)
+[![LinkedIn Badge](https://img.shields.io/badge/-tariqjamal-0077b5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tariq-jamal-it/)
+[![Gmail Badge](https://img.shields.io/badge/-tariqjamal4267324@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:tariqjamal4267324@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-tariqjamal_it-555?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/tariqjamal_it/)
 
-I'm proficient in building and maintaining robust web applications using Flask and FastAPI, with a strong background in developing RESTful APIs and working with PostgreSQL and MySQL databases. Experienced in creating clean, responsive UIs using JavaScript, React.js, and Next.js, as well as integrating third-party APIs. Skilled in working in Agile environments, focusing on delivering high-quality, scalable solutions. Passionate about continuous learning and leveraging new technologies to enhance development processes.
+I'm proficient in building and maintaining robust web applications using **Flask** and **FastAPI**, with a strong background in developing RESTful APIs and working with **PostgreSQL** and **MySQL** databases. Experienced in creating clean, responsive UIs using **JavaScript**, **React.js**, and **Next.js**, as well as integrating third-party APIs. Skilled in working in **Agile** environments, focusing on delivering high-quality, scalable solutions. Passionate about continuous learning and leveraging new technologies to enhance development processes.
 
-<br>
-<img align='right' src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" height="190">
+<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" height="190" alt="Coding Gif">
 
-- 🌱 I’m currently focusing on **Python Web Developments Frameworks** and UI/UX Design.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 🌱 I’m currently focusing on **Python Web Development Frameworks** and **UI/UX Design**.
+- 💬 I’m looking forward to contributing to **Open Source Projects**.
 
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+
 
 ## Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -56,7 +57,7 @@ I'm proficient in building and maintaining robust web applications using Flask a
 [![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-###  GitHub Stats
+##  GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=algolia)](https://github.com/tariqjamal057)
 
