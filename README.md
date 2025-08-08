@@ -61,6 +61,4 @@ I'm proficient in building and maintaining robust web applications using **Flask
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=algolia)](https://github.com/tariqjamal057)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tariqjamal057&theme=onedark&row=1&column=6)](https://github.com/tariqjamal057)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="050f2c")](https://github.com/tariqjamal057)
