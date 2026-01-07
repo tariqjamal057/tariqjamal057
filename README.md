@@ -57,9 +57,6 @@ I'm proficient in building and maintaining robust web applications using **Flask
 [![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-##  GitHub Stats
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=tariqjamal057&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-
 [![Stats](https://github-readme-stats.vercel.app/api?username=tariqjamal057&show_icons=true&theme=algolia)](https://github.com/tariqjamal057)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="050f2c")](https://github.com/tariqjamal057)
